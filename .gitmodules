@@ -1,0 +1,3 @@
+[submodule "src/ros2-mindvision-camera"]
+	path = src/ros2-mindvision-camera
+	url = https://github.com/illini-robomaster/ros2-mindvision-camera.git
