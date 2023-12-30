@@ -9,3 +9,6 @@
 [submodule "src/irmv_serial"]
 	path = src/irmv_serial
 	url = https://github.com/illini-robomaster/irmv_serial.git
+[submodule "src/irmv_aim"]
+	path = src/irmv_aim
+	url = https://github.com/illini-robomaster/irmv_aim.git
