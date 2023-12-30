@@ -1,6 +1,11 @@
-[submodule "src/ros2-mindvision-camera"]
-	path = src/ros2-mindvision-camera
-	url = https://github.com/illini-robomaster/ros2-mindvision-camera.git
-[submodule "src/irm_detection"]
-	path = src/irm_detection
-	url = https://github.com/illini-robomaster/irm_detection.git
+[submodule "src/irmv_camera"]
+	path = src/irmv_camera
+	url = https://github.com/illini-robomaster/irmv_camera.git
+
+[submodule "src/irmv_detection"]
+	path = src/irmv_detection
+	url = https://github.com/illini-robomaster/irmv_detection.git
+
+[submodule "src/irmv_serial"]
+	path = src/irmv_serial
+	url = https://github.com/illini-robomaster/irmv_serial.git
