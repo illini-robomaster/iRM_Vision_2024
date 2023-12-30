@@ -1,3 +1,6 @@
 [submodule "src/ros2-mindvision-camera"]
 	path = src/ros2-mindvision-camera
 	url = https://github.com/illini-robomaster/ros2-mindvision-camera.git
+[submodule "src/rm_serial_driver"]
+	path = src/rm_serial_driver
+	url = https://github.com/illini-robomaster/rm_serial_driver.git
